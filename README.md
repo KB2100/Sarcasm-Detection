@@ -17,7 +17,7 @@ Contributors
 
 
 # Introduction:
-Sarcasm detection in code-mixed social media text is challenging due to informal writing, regional language mixing, and varying context. This project fine-tunes a multilingual BERT model to detect sarcasm effectively.
+Sarcasm detection in code-mixed social media text is challenging due to informal writing, regional language mixing, and varying context. This project fine-tunes a multilingual BERT model to detect sarcasm effectively
 
 # Classes:
 Sarcastic (YES)
