@@ -46,7 +46,7 @@ torch
 pandas
 sklearn
 
-# Train the model 
+# Train the model:
 python train.py
 The model is fine-tuned using BERT-base-multilingual-cased.
 Batch size: 16
