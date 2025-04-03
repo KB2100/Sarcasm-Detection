@@ -5,7 +5,7 @@ This repository contains a BERT-based sarcasm detection model for code-mixed (Hi
 You can download the trained model and dataset from the following link:  
 📥 [Download Model & Dataset](https://drive.google.com/drive/folders/1jtMeQXnuSpiLQCaf6uzAbeJbtyvXxka4?usp=drive_link)
 
-# Table of Contents:
+# Table of Contents
 Introduction
 Installation
 Training
