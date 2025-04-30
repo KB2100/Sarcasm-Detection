@@ -1,5 +1,5 @@
 # Sarcasm-Detection
-This repository contains a BERT-based sarcasm detection model for code-mixed (Hindi + English ) social media text. The project includes data preprocessing, model training, evaluation, and predictions. The model is fine-tuned using transformers, PyTorch, and Hugging Face
+This repository contains a BERT-based sarcasm detection model for code-mixed (Hindi + English ) social media text. The project includes data preprocessing, model training, evaluation, and predictions. The model is fine-tuned using transformers, PyTorch, and Hugging Face.
 
 # Download Model & Data
 You can download the trained model and dataset from the following link:  
